@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Olá, meu nome é Ezequiel Trindade! 👋
+Formado em Análise e Desenvolvimento de Sistemas com uma transição de carreira para Desenvolvedor Backend.
+Linguagens: Golang
+Banco de Dados: MySQL.
 <!--
 **devezets/devezets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
